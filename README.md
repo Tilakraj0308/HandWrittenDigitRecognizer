@@ -1,2 +1,2 @@
 # HandWrittenDigitRecognizer
-###Made using Mnist database and neural network
+### Made using Mnist database and neural network
